@@ -1,0 +1,10 @@
+﻿Hey Kwame,
+
+So I think for this FInal project I should get around 90%.  Only thing I did not implement fully was the health system and enemies taking away health.  For some reason from
+time to time, I'm able to get my lose condition with the enemy and sometimes not.  I still have trouble understanding OncollisionEnter and they other methods like it.
+Anyway, from what I did, I think I hit pretty much all the milestones we covered this semester.  So if it we're me giving my grade, I would give myself a 90-95% for this
+final.
+
+Other than that, Merry Christmas and a Happy New year! Thanks for the semester! Hopefully we'll see you again soon!
+
+Fred
